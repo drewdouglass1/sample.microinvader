@@ -1,4 +1,5 @@
-## Microinvader
+Microinvader
+============
 
 To run (requires the Maven command line client):
 
