@@ -1,0 +1,10 @@
+
+target/
+.classpath
+.project
+.settings/
+bin/
+/.apt_generated/
+*/target/
+.DS_Store
+*/.DS_Store
