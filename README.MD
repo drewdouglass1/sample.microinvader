@@ -1,6 +1,7 @@
-## Microinvader
+Microinvader
+============
 
-To run (requires the Maven command line client):
+## To run (requires the Maven command line client):
 
 1. Clone the GitHub repository: `git clone https://github.com/WASdev/sample.microinvaders.git`
 2. `cd sample.microinvaders`
@@ -11,7 +12,7 @@ To run (requires the Maven command line client):
 7. Play.
 8. To stop the Liberty server: `./server stop microinvader`
 
-To run Microinvader from Eclipse:
+## To run Microinvader from Eclipse (inc Maven plugin):
 
 1. In Eclipse, switch to the Git perspective.
 2. Click **Clone a Git repository** from the Git Repositories view.
