@@ -23,3 +23,6 @@ To run Microinvader from Eclipse (inc Maven plugin):
 8. Right-click the **pom.xml** in the `microinvaders` project, then click **Run As... > Maven Build...**, then in the **Goals** field type `install liberty:start-server` and click **Run**. This builds and tests the application then starts the server running in the background.
 9. Open the application in a browser: `http://localhost:9081/space-1.0/`. Follow the instructions to play the game.
 10. To stop the server when you're finished, run the Maven build again with the `liberty:stop-server` goal.
+
+
+Game icons from http://icon-icons.com/
