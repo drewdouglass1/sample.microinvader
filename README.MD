@@ -24,5 +24,5 @@ To run Microinvader from Eclipse (inc Maven plugin):
 9. Open the application in a browser: `http://localhost:9081/space-1.0/`. Follow the instructions to play the game.
 10. To stop the server when you're finished, run the Maven build again with the `liberty:stop-server` goal.
 
-
+See also [my article on WASdev.net](https://developer.ibm.com/wasdev/docs/microinvader-importance-common-interfaces-microservices/).
 Game icons from http://icon-icons.com/
