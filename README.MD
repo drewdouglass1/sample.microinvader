@@ -25,4 +25,5 @@ To run Microinvader from Eclipse (inc Maven plugin):
 10. To stop the server when you're finished, run the Maven build again with the `liberty:stop-server` goal.
 
 See also [my article on WASdev.net](https://developer.ibm.com/wasdev/docs/microinvader-importance-common-interfaces-microservices/).
+
 Game icons from http://icon-icons.com/
