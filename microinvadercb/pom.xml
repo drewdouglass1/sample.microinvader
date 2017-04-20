@@ -52,7 +52,7 @@
                         <configuration>
                           <outputDirectory>${project.build.directory}/wlp/usr/servers/microinvader/dropins</outputDirectory>
                           <resources>
-                           <!--  <resource>
+                            <!-- <resource>
                               <directory>bomb/target</directory>
                               <includes>
                                 <include>*.war</include>
@@ -106,8 +106,8 @@
                     <packageFile>usr</packageFile>
                     <include>usr</include>
                     <bootstrapProperties>
-                        <default.http.port>9081</default.http.port>
-                        <default.https.port>9444</default.https.port>
+                        <default.http.port>9082</default.http.port>
+                        <default.https.port>9445</default.https.port>
                     </bootstrapProperties>
                 </configuration>
                 <executions>

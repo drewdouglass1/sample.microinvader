@@ -9,7 +9,7 @@ app.controller('control', [ '$scope', '$http', '$interval', '$window', function(
 	    $scope.finished = false;
 	    $scope.showdialog = true;
 	    
-	    $scope.space_ip = "http://127.0.0.1:9081/space-1.0";
+	    $scope.space_ip = "http://127.0.0.1:9082/space-1.0";
 	    
 	    
 	    $scope.keyPressed = function($event) {
