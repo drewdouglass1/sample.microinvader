@@ -15,12 +15,7 @@
             <name>liberty-starter-maven-repo</name>
         <url>http://liberty-starter.wasdev.developer.ibm.com/start/api/v1/repo</url>
         </repository>
-    </repositories>
-    <scm>
-        <connection>scm:git@github.com:WASdev/tool.accelerate.core.git</connection>
-        <developerConnection>scm:git@github.com:WASdev/tool.accelerate.core.git</developerConnection>
-        <url>github.com:WASdev/tool.accelerate.core.git</url>
-    </scm>    
+    </repositories>   
     <modules>
         <module>bomb</module>
         <module>collision</module>
