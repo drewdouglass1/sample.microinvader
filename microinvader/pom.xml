@@ -17,9 +17,9 @@
         </repository>
     </repositories>
     <scm>
-        <connection>https://github.com/drewdouglass1/sample.microinvader.git</connection>
-        <developerConnection>https://github.com/drewdouglass1/sample.microinvader.git</developerConnection>
-        <url>https://github.com/drewdouglass1/sample.microinvader.git</url>
+        <connection>scm:git@github.com:WASdev/tool.accelerate.core.git</connection>
+        <developerConnection>scm:git@github.com:WASdev/tool.accelerate.core.git</developerConnection>
+        <url>git@github.com:WASdev/tool.accelerate.core.git</url>
     </scm>    
     <modules>
         <module>bomb</module>
