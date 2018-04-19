@@ -19,7 +19,7 @@
     <scm>
         <connection>scm:git@github.com:WASdev/tool.accelerate.core.git</connection>
         <developerConnection>scm:git@github.com:WASdev/tool.accelerate.core.git</developerConnection>
-        <url>git@github.com:WASdev/tool.accelerate.core.git</url>
+        <url>github.com:WASdev/tool.accelerate.core.git</url>
     </scm>    
     <modules>
         <module>bomb</module>
