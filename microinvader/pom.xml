@@ -45,7 +45,7 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                          <outputDirectory>${project.build.directory}/wlp/usr/servers/microinvader/dropins</outputDirectory>
+                          <outputDirectory>${project.build.directory}</outputDirectory>
                           <resources>
                             <resource>
                               <directory>bomb/target</directory>
